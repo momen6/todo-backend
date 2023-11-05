@@ -1,7 +1,7 @@
 # Todo-Backend
 
 
-<p>Todo-Web-Application using Spring Boot and Angular.</p>
+<p>Todo-Web-Application using Spring Boot and Angular for making CRUD operations on entities.</p>
 
 ###  Technologies Used:
 - Java.
